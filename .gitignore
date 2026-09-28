@@ -1,0 +1,20 @@
+# Source footage — too large for GitHub, never versioned.
+# Regenerate frames locally with opencvcode.py (needs Task.mp4 on disk).
+*.avi
+*.mp4
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Ultralytics run outputs
+runs/
+
+# OS / editor noise
+Thumbs.db
+desktop.ini
+*.swp
+*~
+.vscode/
